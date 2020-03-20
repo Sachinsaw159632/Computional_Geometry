@@ -24,5 +24,5 @@
 project(Computational_Geometry)
 cmake_minimum_required(VERSION 3.0)
 
-message(STATUS "!!!!!!!!!!!!!!!!!!!!!!!!  {PROJECT_SOURCE_DIR}")
+message(STATUS "!!!!!!!!!!!!!!!!!!!!!!!!-->>Project directory -->>  {PROJECT_SOURCE_DIR} !!!!!!!!!!!!!!!")
 add_subdirectory(${PROJECT_SOURCE_DIR}/src/computational_geometry)
