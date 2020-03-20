@@ -40,6 +40,6 @@ public:
 
 } // namespace cg
 
-#include"circle.cpp"
+//#include"circle.cpp"
 
 #endif //COMGEO_CIRCLE_H
