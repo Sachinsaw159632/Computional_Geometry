@@ -42,6 +42,6 @@ public:
 
 } //namespace cg
 
-#include"triangle.cpp"
+//#include"triangle.cpp"
 
 #endif //COMGEO_TRIANGLE_H
