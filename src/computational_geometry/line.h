@@ -31,6 +31,6 @@ public:
 
 } //namspace cg
 
-#include"line.cpp"
+//#include"line.cpp"
 
 #endif //COMGEO_LINE_H
