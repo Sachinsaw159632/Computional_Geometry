@@ -55,7 +55,7 @@ bool polygon<T>::is_convex() const {
 }
 
 template<typename T>
-bool polygon<T>::is_inside(point<T> p) const {
+bool polygon<T>::is_inside(point<T> &p) const {
     if(pts.size()==0) return(false);
     double sum=0;
     for(int i=0;i<(int)pts.size()-1;i++){
