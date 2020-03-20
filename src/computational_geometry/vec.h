@@ -54,6 +54,6 @@ public:
 
 } // namespace cg
 
-#include"vec.cpp"
+//#include"vec.cpp"
 
 #endif //COMGEO_VEC_H
