@@ -33,7 +33,7 @@ public:
     T get_y() const;
 };
 } //namespace cg
-#include"point.cpp"
+//#include"point.cpp"
 
 #endif //COMGEO_POINT_H
 
