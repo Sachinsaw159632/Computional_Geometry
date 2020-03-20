@@ -3,7 +3,7 @@
 //
 #include<iostream>
 #include<cmath>
-
+#include"point.h"
 namespace {
 #define EPS 1e-9
 #define PI std::acos(-1)
