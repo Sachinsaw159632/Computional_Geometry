@@ -37,6 +37,6 @@ public:
 
 } //namespace cg
 
-#include"polygon.h"
+//#include"polygon.h"
 
 #endif //COMGEO_POLYGON_H
